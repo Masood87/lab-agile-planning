@@ -3,7 +3,7 @@ name: User story
 about: This is a template for creating new user stories.
 title: ''
 labels: ''
-assignees: ''
+assignees: Masood87
 
 ---
 
